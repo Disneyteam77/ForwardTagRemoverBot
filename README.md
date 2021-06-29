@@ -3,7 +3,7 @@
  
 ### Installation (Cloud) 
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Artis7eer/disneyteam76/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam76/ForwardTagRemoverBot/tree/main)
 
 <br/>
 
